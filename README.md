@@ -1,3 +1,3 @@
 # YT_view_bot
  
-# dependencies: selenium, time, and chromedriver.exe
+dependencies: selenium, time, and chromedriver.exe
